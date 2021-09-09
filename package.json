@@ -1,0 +1,23 @@
+{
+  "name": "ht-tools",
+  "version": "0.0.1",
+  "description": "javascript常用工具",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czs731/ht-tools.git"
+  },
+  "keywords": [
+    "javascript",
+    "tools"
+  ],
+  "author": "czs731",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czs731/ht-tools/issues"
+  },
+  "homepage": "https://github.com/czs731/ht-tools#readme"
+}
